@@ -10,8 +10,8 @@ Pokemon dual tone melody player using ATmega32U4 (Arduino Leonardo / Micro / Pro
 | Speaker (Ch1) - | PD4  | GPIO | 4   |
 
 ## Melody List
-- [Pallet Town](https://github.com/Hyun-je/pokemonMelody-arduino/raw/main/scores/pokemon-rgby-pallet-town-music.pdf)
-- [Pokemon Center](https://github.com/Hyun-je/pokemonMelody-arduino/raw/main/scores/pokemon-rgby-pokemon-center-music.pdf)
-- [GYM](https://github.com/Hyun-je/pokemonMelody-arduino/raw/main/scores/pokemon-rgby-gym-music.pdf)
-- [Route 1](https://github.com/Hyun-je/pokemonMelody-arduino/raw/main/scores/pokemon-rgby-route-1-music.pdf)
-- [Route 24](https://github.com/Hyun-je/pokemonMelody-arduino/raw/main/scores/pokemon-rgby-route-24-music.pdf)
+- [Pallet Town](https://www.youtube.com/watch?v=cOWRNLaCMJg)
+- [Pokemon Center](https://www.youtube.com/watch?v=MjZIjHu0OfY)
+- [GYM](https://www.youtube.com/watch?v=biLeC5D4S48)
+- [Route 1](https://www.youtube.com/watch?v=u0G12EBW4KY)
+- [Route 24](https://www.youtube.com/watch?v=pX9scc13gMw)
