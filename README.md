@@ -10,6 +10,7 @@ Pokemon dual tone melody player using ATmega32U4 (Arduino Leonardo / Micro / Pro
 | Speaker (Ch1) - | PD4  | GPIO | 4   |
 
 ## Melody List
+![pokemon_gameboy_cover](https://user-images.githubusercontent.com/7419790/176203234-8e7380b4-fdc5-4b8b-aa4c-c52fdd805b29.jpeg)
 - [Pallet Town](https://www.youtube.com/watch?v=cOWRNLaCMJg)
 - [Pokemon Center](https://www.youtube.com/watch?v=MjZIjHu0OfY)
 - [GYM](https://www.youtube.com/watch?v=biLeC5D4S48)
