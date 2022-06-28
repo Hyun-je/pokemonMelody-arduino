@@ -1,7 +1,7 @@
 # pokemonMelody-arduino
 Pokemon dual tone melody player using ATmega32U4 (Arduino Leonardo / Micro / Pro Micro)
 
-## Hardware
+## Hardware (Pin Configuration)
 | name            | port | func | pin |
 |-----------------|------|------|-----|
 | Speaker (Ch0) + | PB5  | OC1A | 9   |
