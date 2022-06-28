@@ -2,6 +2,7 @@
 Pokemon dual tone melody player using ATmega32U4 (Arduino Leonardo / Micro / Pro Micro)
 
 ## Pin Configuration
+![arduino_leonardo](https://user-images.githubusercontent.com/7419790/176205134-45cf459f-abff-42d7-b422-b233484cb6de.jpg)
 | name            | port | func | pin |
 |-----------------|------|------|-----|
 | Speaker (Ch0) + | PB5  | OC1A | 9   |
